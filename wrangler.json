@@ -1,7 +1,8 @@
 {
+  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "liekg-web",
   "main": "dist/boot.js",
-  "compatibility_date": "2026-05-31",
+  "compatibility_date": "2026-06-01",
   "compatibility_flags": [
     "nodejs_compat"
   ],
